@@ -50,13 +50,13 @@ class Employee:
 # Calling destructor
     def __del__(self):
         print("Destructor called")
-    def Create_obj():
+    def Create():
         print('Making Object...')
         obj = Employee()
         print('function end...')
         return obj
 print('Calling Create_obj() function...')
-obj = Create_obj()
+obj = Employee()
 del obj
 # del obj
 # print('Program End...')

@@ -12,9 +12,9 @@ obj.displayage()
 
 # Protected members/ Protected Access Modifier
 class student:
-    _name=none
-    _roll = none
-    _branch = none
+    _name= "ujjwal"
+    _roll = 98
+    _branch = "head"
     def __init__(self , name , roll, branch):
         self.name= name
         self.roll = roll
@@ -24,7 +24,7 @@ class student:
         print("Branch: ", self._branch)
 class developer:
     def __init__(self, name, roll, branch):
-        Student.__init__(self, name, roll, branch)
+        student.__init__(self, name, roll, branch)
     def displayDetails(self):
         print("Name: ", self._name)
         self._displayrollandbranch()
