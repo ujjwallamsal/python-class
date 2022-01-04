@@ -1,0 +1,34 @@
+[
+  {
+    "district": "bhaktapur",
+    "headquarter": "bhaktapur"
+  },
+  {
+    "district": "dhading",
+    "headquarter": "dhading besi"
+  },
+  {
+    "district": "kathmandu",
+    "headquarter": "kathmandu"
+  },
+  {
+    "district": "kavre",
+    "headquarter": "dhulikhel"
+  },
+  {
+    "district": "lalitpur",
+    "headquarter": "patan"
+  },
+  {
+    "district": "nuwakot",
+    "headquarter": "bidur"
+  },
+  {
+    "district": "rasuwa",
+    "headquarter": "dhunche"
+  },
+  {
+    "district": "sindhupalchok",
+    "headquarter": "chautara"
+  }
+]
